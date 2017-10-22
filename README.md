@@ -14,7 +14,7 @@ Lightpack project with Prismatik flavour
 
 **Lightpack** is an fully open-source and simple hardware implementation of the backlight for any computer. It's USB content-driving ambient lighting system.
 
-**Prismatik** is an open-source software we buid to control Lightpack device. It grabs screen, analize picture,
+**Prismatik** is an open-source software we build to control Lightpack device. It grabs screen, analize picture,
 calculate resulting colors and provide soft and gentle lighting with Lightpack device. Moreother, you can 
 handle another devices with Prismatik such as Adalight, Ardulight or even Alienware LightFX system.
 
